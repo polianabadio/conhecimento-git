@@ -1,0 +1,30 @@
+
+.tabela {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #fff;
+    
+  }
+  
+  .tabela th, .tabela td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .tabela th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .tabela tfoot td {
+    text-align: center;
+    font-style: italic;
+    font-size: 0.8em;
+    background-color: #f2f2f2;
+  }
+  
+
+#adicionar{
+    margin-top:2%;
+}
